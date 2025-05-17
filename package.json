@@ -1,0 +1,24 @@
+{
+  "name": "targilon7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eladk333/Targilon7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eladk333/Targilon7/issues"
+  },
+  "homepage": "https://github.com/eladk333/Targilon7#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
